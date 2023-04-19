@@ -5,3 +5,5 @@ This command removes git from projects
 # rm -rf .git 
 
 For future developers working on projects I AM using Submlime 3, but usinng Visual Studio to enact git functions using powershell. 
+
+# git remove removes a reposirory so for example git remove origin
