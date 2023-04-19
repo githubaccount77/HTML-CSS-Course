@@ -1,4 +1,4 @@
-This file will not be used.
+This file will not be used. -.gitignore files...
 
 This command removes git from projects
 
@@ -12,7 +12,41 @@ This is the path for HTML CSS COURE
 
 cd "C:\Users\christopher\Documents\Programming\HTML CSS Course"
 
-shift right click on windows gives the ability to copy path, and ctrl fn + esc  on my key board opens powershell in Visual Studio for windows regular keyboard not a 60% keyboard it is tilda plus and ctrl.
+# shift right click on windows gives the ability to copy path, and ctrl fn + esc  on my key board opens powershell in Visual Studio for windows regular keyboard not a 60% keyboard it is tilda plus and ctrl.
 
 https://docs.github.com/en/enterprise-server@3.5/admin/configuration/configuring-your-enterprise/enabling-private-mode
+
+# Don't use this but it's good to know if you must git push origin master -f (You don't want to do this unless you mess up commit history.)
+
+# git clone creates a clone find the https url for the git clone it's best practice to create your own folder name.
+
+# git add .
+
+#  commit -m "add custom message here." 
+
+# git push origin master / git push
+
+# git init adds git to folder
+
+# git log --all --graph
+# q to exit
+
+# get fetch updates all tracking branches
+
+# git pull origin master
+
+# git log
+
+# git pull origin master --set-upstream - this will make git memorize the master for us.
+
+If you wish to clone make sure to change directory because git clone clones repository into the folder you're currently running in.
+
+# https://youtu.be/1ibmWyt8hfw?t=2408 - to join team on Github.
+
+make sure to get init -https://git-scm.com/docs/git-init for logging into team folder created.
+
+
+
+
+
 
