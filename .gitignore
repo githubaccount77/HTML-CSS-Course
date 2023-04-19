@@ -7,3 +7,9 @@ This command removes git from projects
 For future developers working on projects I AM using Submlime 3, but usinng Visual Studio to enact git functions using powershell. 
 
 # git remove removes a reposirory so for example git remove origin
+
+This is the path for HTML CSS COURE 
+
+cd "C:\Users\christopher\Documents\Programming\HTML CSS Course"
+
+shift right click on windows gives the ability to copy path, and ctrl fn + esc  on my key board opens terminal for windows regular keyboard not a 60% keyboard it is tilda plus and ctrl.
