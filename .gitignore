@@ -3,3 +3,5 @@ This file will not be used.
 This command removes git from projects
 
 # rm -rf .git 
+
+For future developers working on projects I AM using Submlime 3, but usinng Visual Studio to enact git functions using powershell. 
