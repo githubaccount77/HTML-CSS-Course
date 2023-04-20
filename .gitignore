@@ -39,6 +39,8 @@ https://docs.github.com/en/enterprise-server@3.5/admin/configuration/configuring
 
 # git pull origin master --set-upstream - this will make git memorize the master for us.
 
+# git merge then name of branch it merges branch into current branch so for example use git checkout master or git checkout main then do the merge by git merge -m "then message such as commit".
+
 If you wish to clone make sure to change directory because git clone clones repository into the folder you're currently running in.
 
 # https://youtu.be/1ibmWyt8hfw?t=2408 - to join team on Github.
@@ -52,7 +54,10 @@ Github Cheatsheet
 
 https://supersimpledev.github.io/references/git-github-reference.pdf
 
+Git tutorials -
 
+Git tricks below 
+https://www.youtube.com/watch?v=ecK3EnyGD8o&ab_channel=Fireship
 
-
-
+Git Rebase
+https://www.youtube.com/watch?v=qsTthZi23VE
